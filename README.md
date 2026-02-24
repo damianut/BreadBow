@@ -10,6 +10,12 @@
 
 Shooting with a bread.
 
+To shoot:
+- open a console (F2 in developer mode)
+- type `insert itrw_breadbow`
+- type `insert itfo_bread` few times
+- take the items, equip the bow and shoot!
+
 This is a modular modification (a.k.a. patch or add-on) that can be installed and uninstalled at any time and is virtually compatible with any modification.
 It supports <kbd>Gothic II: NotR</kbd> only.
 
